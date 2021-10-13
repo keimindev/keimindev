@@ -1,5 +1,5 @@
 <br/>
-<h3 align="center">MIN</h3>
+<img src="https://user-images.githubusercontent.com/65863834/137170306-9e5ea668-a5ad-4c3f-b257-ec05118f7257.jpg"  alt="name"/>
 <br/>
 <div align="center">
 <img alt="gmail" src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keiramingj@gmail.com"/>
