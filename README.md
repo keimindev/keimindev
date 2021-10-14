@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/65863834/137170306-9e5ea668-a5ad-4c3f-b257-ec05118f7257.jpg"  alt="name"/>
 <br/>
 <div align="center">
-<img alt="gmail" src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keiramingj@gmail.com"/>
+<img alt="gmail" src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keimindev@gmail.com"/>
 <a href="https://www.linkedin.com/in/keira-min00/"><img alt="linkdein" src ="https://img.shields.io/badge/Linkedin-%230077b5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/keira-min00/"/></a>
 </div>
 
@@ -30,7 +30,7 @@ Hi there! 👋 I'm Min. Glad to see you here! 🌱 I’m currently looking for a
 - 👩🏻 I'm currently learning React and JavaScript.
 - ✨ I'm currently working on something cool!
 - 💻 I try to write regualry about what i studying on [my blog](https://www.midnightinsomewhere.com/)
-- 📫 How to reach me: keiramingj@gmail.com
+- 📫 How to reach me: keimindev@gmail.com
 
 <br/>
 <br/>
