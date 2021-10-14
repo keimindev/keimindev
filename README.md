@@ -27,10 +27,10 @@ Hi there! 👋 I'm Min. Glad to see you here! 🌱 I’m currently looking for a
 <br/>
 
 ### 👄 Talking about Personal Stuffs
-- <h6>👩🏻 I'm currently learning React and JavaScript.</h6>
-- <h6>✨ I'm currently working on something cool! </h6>
-- <h6>💻 I try to write regualry about what i studying on [my blog](https://www.midnightinsomewhere.com/). </h6>
-- <h6>📫 How to reach me: keiramingj@gmail.com </h6>
+- 👩🏻 I'm currently learning React and JavaScript.
+- ✨ I'm currently working on something cool!
+- 💻 I try to write regualry about what i studying on [my blog](https://www.midnightinsomewhere.com/)
+- 📫 How to reach me: keiramingj@gmail.com
 
 <br/>
 <br/>
