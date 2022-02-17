@@ -32,7 +32,7 @@ Hi there! 👋 I'm Min. Glad to see you here! 🌱 I’m currently looking for a
 ### 👄 Talking about Personal Stuffs
 - 👩🏻 I'm currently learning React and JavaScript.
 - ✨ I'm currently working on something cool!
-- 💻 I try to write regualry about what i'm studying on [my blog](https://www.midnightinsomewhere.com/)
+- 💻 I try to write regualry about what i'm studying on [my blog](https://mindevlog.tistory.com/)
 - 📫 How to reach me: keimindev@gmail.com
 
 <br/>
