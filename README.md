@@ -8,7 +8,7 @@
 
 
 <h5 align="center">
-Hi there! 👋 I'm Min. Glad to see you here! 🌱 I’m currently looking for a web-developer position.
+Hi there! 👋 I'm Min. Glad to see you here!
 </h5>
 <hr/>
 <br/>
