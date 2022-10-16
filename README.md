@@ -1,4 +1,3 @@
-<br/>
 
 ## ✨ Hello! I'm Min(a.k.a Keira). Glad to see you!
 <div align="left">
@@ -36,6 +35,5 @@
 </div>
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keimindev&layout=compact)](https://github.com/keimindev/github-readme-stats)
 <br/>
 <br/>
