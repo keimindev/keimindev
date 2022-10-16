@@ -16,7 +16,6 @@
 <br/>
 <br/>
 
-
 ## 📚 Tech Stack 
 #### Techs that i've used at least once
 <div align="left">
@@ -36,5 +35,4 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
