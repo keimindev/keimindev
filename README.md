@@ -7,10 +7,9 @@
 </div>
 <br/>
 👩🏻 I'm a Front-end developer based in Seoul.<br/>
-💻 I'm writing regualry about what i'm studying on my blog.<br/>
+💻 I'm writing regularly about what i'm studying on my blog.<br/>
 ❤️ 🏊🏻‍♀️swim 🏃gym 🎨drawing 👩🏻‍💻writing ✈️travel<br/>
 ✈️ I have been to 🇳🇿🇦🇺🇯🇵🇸🇬🇺🇸🇪🇸🇭🇰🇫🇷🇵🇹🇮🇹🇬🇧🇸🇮🇨🇭<br/>
-📫 How to reach me: keimindev@gmail.com<br/>
 
 <br/>
 <br/>
