@@ -1,17 +1,14 @@
 
-## ✨ Hello, I'm 밍밍(Keira)🐰 
+#### ✨ Hello, I'm 밍(Keira)🐰 
+I'm a Frontend developer based in Seoul.<br/>
+I'm writing regularly about what i'm studying on my blog.<br/>
+❤️ 🏊🏻‍♀️swim 🏃gym 🎨drawing 👩🏻‍💻writing ✈️travel<br/>
+✈️ I have been to 🇳🇿🇦🇺🇯🇵🇸🇬🇺🇸🇪🇸🇭🇰🇫🇷🇵🇹🇮🇹🇬🇧🇸🇮🇨🇭<br/>
 <div align="left">
 <a href="mailto:keimindev@gmail.com"><img alt="gmail" src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keimindev@gmail.com"/></a>
 <a href="https://mindevlog.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/-Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/keira-min00/"><img alt="linkdein" src ="https://img.shields.io/badge/Linkedin-%230077b5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
-<br/>
-👩🏻 I'm a Frontend developer based in Seoul.<br/>
-💻 I'm writing regularly about what i'm studying on [my blog](https://mindevlog.tistory.com/).<br/>
-❤️ 🏊🏻‍♀️swim 🏃gym 🎨drawing 👩🏻‍💻writing ✈️travel<br/>
-✈️ I have been to 🇳🇿🇦🇺🇯🇵🇸🇬🇺🇸🇪🇸🇭🇰🇫🇷🇵🇹🇮🇹🇬🇧🇸🇮🇨🇭<br/>
-
-<br/>
 <br/>
 <br/>
 
