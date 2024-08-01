@@ -1,7 +1,7 @@
 <div align="center">
 <h1> MinGyeong Jeong (a.k.a Ming)🐰</h1>
-<a href="mailto:keimindev@gmail.com"><img alt="gmail" src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keimindev@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/keira-ming/"><img alt="linkdein" src ="https://img.shields.io/badge/Linkedin-%230077b5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<!-- <a href="mailto:keimindev@gmail.com"><img alt="gmail" src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keimindev@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/keira-ming/"><img alt="linkdein" src ="https://img.shields.io/badge/Linkedin-%230077b5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
 </div>
 <br>
 <div align="center">
