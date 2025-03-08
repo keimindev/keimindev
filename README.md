@@ -5,7 +5,7 @@
 </div>
 
 
-**I'm a Frontend developer.**
+**I'm a software engineer(FE).**
 I used to work in the fashion industry but transitioned into a career as a developer for various reasons. I have 3 years of experience as a front-end developer, primarily working with React and TypeScript. I love the idea of creating something that works through code. I'm also passionate about building products that make a meaningful impact on people's lives. I'm not afraid of challenges, and to embrace new opportunities.<br/>
   
 Lately, I've been interested in Node.js and SQL. As I work on projects, I find myself thinking a lot about data flow and relationships. 
