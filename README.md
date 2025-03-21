@@ -24,6 +24,7 @@ I used to work in the fashion industry but transitioned into a career as a devel
 </div>
 <div align="center">
 <img alt="Redux" src ="https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white&style=for-the-badge"/>
+<img alt="Recoil" src ="https://img.shields.io/badge/-Recoil-3578E5?logo=recoil&logoColor=white&style=for-the-badge"/>  
 <img alt="mongodb" src ="https://img.shields.io/badge/-MongoDB-47A248?logo=mongoDB&logoColor=white&style=for-the-badge"/>
 <img alt="nodejs" src ="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
 <img alt="firebase" src ="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"/>
